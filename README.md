@@ -9,7 +9,7 @@ text from images online.
 - Free online OCR tool
 - Supports JPG, PNG, PDF
 - No signup required
-- 🔗 https://extractimagetotext.org
+- 🔗 https://www.extractimagetotext.org
 
 ### 2. Google Lens
 - Mobile-based OCR
@@ -18,6 +18,18 @@ text from images online.
 ### 3. Adobe Acrobat OCR
 - PDF focused
 - 🔗 adobe.com
+
+### 4. Tesseract OCR
+- Open source OCR engine
+- 🔗 github.com/tesseract-ocr
+
+### 5. OnlineOCR.net
+- Supports 46 languages
+- 🔗 onlineocr.net
+
+### 6. i2OCR
+- Free multilingual OCR
+- 🔗 i2ocr.com
 
 ## 📌 Use Cases
 - Extract text from screenshots
