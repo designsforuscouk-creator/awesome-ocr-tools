@@ -31,6 +31,12 @@ text from images online.
 - Free multilingual OCR
 - 🔗 i2ocr.com
 
+### 7. Doc2X
+- PDF/image OCR with formula and table recognition; Word, Markdown and LaTeX export
+- Limited recurring free parsing allowance; account required, cloud uploads
+- Paid upgrades and separately billed API; not unlimited or free API access
+- 🔗 https://doc2x.noedgeai.com/
+
 ## 📌 Use Cases
 - Extract text from screenshots
 - Convert scanned PDFs to text
